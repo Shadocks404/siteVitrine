@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mydrawgallery/static/css/main.04f0c805.chunk.css",
-    "main.js": "/mydrawgallery/static/js/main.9abe5dd9.chunk.js",
-    "main.js.map": "/mydrawgallery/static/js/main.9abe5dd9.chunk.js.map",
+    "main.js": "/mydrawgallery/static/js/main.0f73336c.chunk.js",
+    "main.js.map": "/mydrawgallery/static/js/main.0f73336c.chunk.js.map",
     "runtime-main.js": "/mydrawgallery/static/js/runtime-main.657e502f.js",
     "runtime-main.js.map": "/mydrawgallery/static/js/runtime-main.657e502f.js.map",
     "static/js/2.6e6e0a6d.chunk.js": "/mydrawgallery/static/js/2.6e6e0a6d.chunk.js",
     "static/js/2.6e6e0a6d.chunk.js.map": "/mydrawgallery/static/js/2.6e6e0a6d.chunk.js.map",
     "index.html": "/mydrawgallery/index.html",
-    "precache-manifest.1c47d481530db158d4b9467883cc7720.js": "/mydrawgallery/precache-manifest.1c47d481530db158d4b9467883cc7720.js",
+    "precache-manifest.55092f450146d688802d1a559b004e44.js": "/mydrawgallery/precache-manifest.55092f450146d688802d1a559b004e44.js",
     "service-worker.js": "/mydrawgallery/service-worker.js",
     "static/css/main.04f0c805.chunk.css.map": "/mydrawgallery/static/css/main.04f0c805.chunk.css.map",
     "static/js/2.6e6e0a6d.chunk.js.LICENSE.txt": "/mydrawgallery/static/js/2.6e6e0a6d.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.657e502f.js",
     "static/js/2.6e6e0a6d.chunk.js",
     "static/css/main.04f0c805.chunk.css",
-    "static/js/main.9abe5dd9.chunk.js"
+    "static/js/main.0f73336c.chunk.js"
   ]
 }
